@@ -1,1 +1,0 @@
-Nobita’s README.
